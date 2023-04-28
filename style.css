@@ -60,7 +60,7 @@ body {
 #resultado{
    /* font-weight: bold; */
     font-family: fantasy;
-    color:#4f4f4f;
+    color:#000000;
     font-size: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
